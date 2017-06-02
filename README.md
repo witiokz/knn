@@ -1,0 +1,2 @@
+# knn
+OpenCV_3_KNN_Character_Recognition_Emgu_CV_3_C#. Based on https://github.com/MicrocontrollersAndMore/OpenCV_3_KNN_Character_Recognition_Emgu_CV_3_Visual_Basic
